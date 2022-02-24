@@ -1,0 +1,9 @@
+var age = 13;
+temperature = 37;
+var pen = 5;
+var pad = 5;
+var course = 4500;
+var first_tiem_sila =40;
+var dsff = sdlsd_sdffja;
+var pass = true;
+var subscribed = false;
